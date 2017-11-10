@@ -1,0 +1,5 @@
+com\jpmorgan\reportingengine\client\ReportEngineSampleData.class
+com\jpmorgan\reportingengine\constants\ReportServiceConstants.class
+com\jpmorgan\reportingengine\client\ReportingEngineClient.class
+com\jpmorgan\reportingengine\model\EntityBO.class
+com\jpmorgan\reportingengine\model\ReportModel.class
