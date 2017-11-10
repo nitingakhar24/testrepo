@@ -1,5 +1,7 @@
 # Eclipse
- target/
 .classpath
 .project
 .settings/
+target/
+*/target/**
+*/target/*
